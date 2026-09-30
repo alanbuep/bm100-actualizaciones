@@ -1,4 +1,4 @@
 {
-  "estado": "activo",
-  "mensaje": ""
+    "estado":  "bloqueado",
+    "mensaje":  "Prueba de bloqueo."
 }
