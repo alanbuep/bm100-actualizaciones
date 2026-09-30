@@ -1,6 +1,6 @@
 {
-    "version":  "2.4.1",
-    "archivo":  "firmware/bm100-2.4.1.bin",
-    "notas":  "Agrega el link para descargar el manual de usuario.",
+    "version":  "2.5.0",
+    "archivo":  "firmware/bm100-2.5.0.bin",
+    "notas":  "Nueva tarjeta para descargar el manual de usuario, en Inicio y en Ajustes.",
     "fecha":  "2026-09-30"
 }
